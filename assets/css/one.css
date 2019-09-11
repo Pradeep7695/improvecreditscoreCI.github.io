@@ -1,0 +1,869 @@
+/*------------------------------------
+    One color style sheet
+	
+	just replace "fd4326" with your custom color
+------------------------------------*/
+/*
+================================================
+1. Top Wrapper
+================================================
+*/
+.navbar-default .navbar-nav.nav li:hover > a, .navbar-default .navbar-nav li.active > a:hover, .navbar-default .navbar-nav li.active > a:focus, .navbar-default .navbar-nav li.active > a, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .nav .open > a, .navbar-default .nav .open > a:focus, .navbar-default .nav .open > a:hover, .side-nav li > a:focus {
+	color: #fd4326;
+}
+.cart-signup li .sign-up {
+	background: #fd4326;
+}
+/*
+================================================
+2. Banner
+================================================
+*/
+.banner-wrapper .fade-carousel .carousel-control span:hover {
+	border: 2px solid #fd4326;
+	background: #fd4326;
+}
+.banner-wrapper .hero h1 {
+	color: #fd4326;
+}
+.banner-wrapper .btn-hero:hover {
+	border: 1px solid #fd4326;
+	background: #fd4326;
+}
+/*
+================================================
+9. Header Bottom Arrow
+================================================
+*/
+.bottom_row {
+	background: url(../images/bottom-arrow-bg.png) no-repeat center center;
+}
+/*
+================================================
+3. Domain Search
+================================================
+*/
+.domain-search {
+	background: #fd4326;
+}
+/*
+================================================
+4. Domain Prices
+================================================
+*/
+.domain-prices .prices h4:hover, .domain-prices .prices h4.active {
+	background: #fd4326;
+}
+/*
+================================================
+12. About Us
+================================================
+*/
+.about-us .read-more {
+	background: #fd4326;
+}
+/*
+================================================
+5. Dream Host
+================================================
+*/
+.dream-host {
+	background: #fd4326;
+}
+/*
+================================================
+15. Our Services
+================================================
+*/
+.our-services .services:hover .live-chat-icon {
+	background: url(../images/live-chat-icon-hover.png) no-repeat left top;
+}
+.our-services .services:hover .domain-transfer-icon, .our-services .services.active .domain-transfer-icon {
+	background: url(../images/domain-transfer-icon-hover.png) no-repeat left top;
+}
+.our-services .services:hover .secured-server-icon {
+	background: url(../images/secured-server-icon-hover.png) no-repeat left top;
+}
+.our-services .services:hover .domain-panel-icon {
+	background: url(../images/domain-panel-icon-hover.png) no-repeat left top;
+}
+/*
+================================================
+16. What we do
+================================================
+*/
+.what-we-do .what-we .protection-icon {
+	background:url(../images/data-protection-icon.png) no-repeat left top;
+}
+.what-we-do .what-we .optimization-icon {
+	background:url(../images/optimization-icon.png) no-repeat left top;
+}
+.what-we-do .what-we .data-analysis-icon {
+	background:url(../images/data-analysis-icon.png) no-repeat left top;
+}
+.what-we-do .what-we .data-enctyption-icon {
+	background:url(../images/data-enctyption-icon.png) no-repeat left top;
+}
+/*
+================================================
+6. Hosting Platforms
+================================================
+*/
+.hosting-platforms .plans:hover, .hosting-platforms .plans.active {
+	background: #fd4326;
+}
+.hosting-platforms .plans:hover h3, .hosting-platforms .plans.active h3 {
+	background: #fd4326;
+}
+/*
+================================================
+7. Testimonials
+================================================
+*/
+.testimonials .item p::before {
+	color: #fd4326;
+}
+.testimonials .item .tes-details h3 {
+	color: #fd4326;
+}
+.testimonials .carousel-indicators .active {
+	background: #fd4326;
+}
+/*
+================================================
+8. Inner Page Styles
+================================================
+*/
+.banner-wrapper.inner-banner {
+	border-bottom: 36px solid #fd4326;
+}
+/*
+================================================
+9. Inner Page Styles
+================================================
+*/
+.inner-wrapper li i {
+	color: #fd4326;
+}
+.inner-wrapper .read-more {
+	background: #fd4326;
+}
+/*
+================================================
+10. Hosting
+================================================
+*/
+.hosting-banner h1 {
+	color: #fd4326;
+}
+.hosting-banner .price span {
+	color: #fd4326;
+}
+.hosting-banner .price span i {
+	color: #fd4326;
+}
+.hosting-banner .buynow a {
+	background: #fd4326;
+}
+.hosting-banner .sale h2 {
+	color: #fd4326;
+}
+/*
+================================================
+11. Hosting Features
+================================================
+*/
+.hosting-features .features:hover {
+	background: #fd4326;
+}
+/*
+================================================
+12. Faq
+================================================
+*/
+.faq .panel-title a {
+	background-color: #fd4326;
+	border: solid 1px #fd4326;
+	border-left: solid 10px #fd4326;
+}
+.faq .panel-title a.collapsed {
+	border-left: solid 10px #fd4326;
+}
+/*
+================================================
+13. Call Back
+================================================
+*/
+.call-back form .btn {
+	background: #fd4326;
+}
+/*
+================================================
+14. Domain Register
+================================================
+*/
+.domain-register h3 {
+	color: #fd4326;
+}
+.domain-register:hover a {
+	background: #fd4326;
+}
+.domain-register:hover {
+	box-shadow: 0 0 5px rgba(253, 67, 38, 1);
+}
+/*
+================================================
+15. Domain Transfer
+================================================
+*/
+.inner-wrapper.what-we-do .what-we i {
+	background: #fd4326;
+}
+/*
+================================================
+16. Domain Price
+================================================
+*/
+.tables .table-custom.table-dark tr th {
+	background: #fd4326;
+}
+/*
+================================================
+17. About Us Page
+================================================
+*/
+.inner-wrapper .callout {
+	border-bottom: solid 3px #fd4326;
+}
+/*
+================================================
+18. Our Team
+================================================
+*/
+.our-team .team:hover {
+	border: solid 1px #fd4326;
+}
+.our-team .team:hover .team-cnt {
+	background: #fd4326;
+}
+/*
+================================================
+19. 404
+================================================
+*/
+.error-page h3 {
+	color: #fd4326;
+}
+.error-page a {
+	background: #fd4326;
+}
+/*
+================================================
+20. Blog Page
+================================================
+*/
+.inner-wrapper.blog .thumbnail:hover .caption a.readmore {
+	background: #fd4326;
+	border: solid 1px #fd4326;
+}
+.inner-wrapper.blog .date {
+	background: #fd4326;
+}
+.blog-pagination .pagination > li > a:focus, .blog-pagination .pagination > li > a:hover, .blog-pagination .pagination > li > span:focus, .blog-pagination .pagination > li > span:hover {
+	background-color: #fd4326;
+}
+/*
+================================================
+21. Blog Details
+================================================
+*/
+.inner-wrapper .single-post .list-inline li a:hover {
+	background: #fd4326;
+}
+.inner-wrapper .single-post .thumbnail .date {
+	background: #fd4326;
+}
+.inner-wrapper .single-post .btn-1 {
+	background: #fd4326;
+}
+.inner-wrapper .single-post .sidebar h3::after {
+	background-color: #fd4326;
+}
+.inner-wrapper .sidebar .tags li:hover {
+	background: #fd4326;
+}
+/*
+================================================
+22. Contact Details
+================================================
+*/
+.contact-details {
+	background: #fd4326;
+}
+/*
+================================================
+23. Footer Wrapper
+================================================
+*/
+.footer-wrapper a:hover {
+	color: #fd4326;
+}
+.footer-wrapper li i {
+	color: #fd4326;
+}
+
+/* =============================other css================================== */
+
+.title-span span
+{
+	color: #fd4326;
+}
+
+/* -------------srervicce css------------- */
+.block {
+	/*padding: 80px 0 40px 0;*/
+	background-color: #fff;
+	background-size: cover;
+	background-position: center center;
+	position: relative;
+}
+.animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+.block-header {
+	text-align: center;
+	margin-bottom: 60px;
+}
+.block-header .title1 {
+	font-size: 38px;
+	line-height: 40px;
+	color: #fd4326;
+	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 15px;
+}
+
+.block-header .text {
+	font-size: 18px;
+	line-height: 24px;
+	color: #6a7483;
+	font-family: 'Ubuntu', sans-serif;
+}
+.animated {
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+}
+.block.type-1 .icon-entry:nth-child(3n+1) {
+	clear: both;
+}
+.block.type-1 .icon-entry {
+	padding-bottom: 40px;
+}
+.block.type-1 .icon-entry img {
+	width: 70px;
+	height: 70px;
+	float: left;
+	margin-top: -15px;
+}
+
+.block.type-1 .icon-entry .content {
+	margin: 0 25px 0 85px;
+}
+
+.block.type-1 .icon-entry .title {
+	font-size: 18px;
+	line-height: 18px;
+	color: #232c3b;
+	font-family: 'Ubuntu', sans-serif;
+	padding: 25px 0 15px 0;
+}
+.block.type-1 .icon-entry .text{
+	font-size: 13px;
+line-height: 22px;
+color: #696969;
+}
+
+/* --------------services css end------------ */
+
+/* -----------------other services--------------- */
+.block-header {
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+.block-header .title2 {
+	font-size: 38px;
+	line-height: 40px;
+	color: #232c3b;
+	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 15px;
+}
+.block-header .text {
+	font-size: 18px;
+	line-height: 24px;
+	color: #6a7483;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.block.type-3 .row {
+	position: relative;
+}
+.block.type-3 .icon-entry {
+	padding-bottom: 60px;
+	text-align: center;
+}
+.block.type-3 .icon-entry img {
+	/*max-width: 100%;
+	height: auto;*/
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+	margin-bottom: 25px;
+}
+.block.type-3 .icon-entry .content {
+	margin: 0 20px;
+}
+.block.type-3 .icon-entry .title2 {
+	padding-top: 0;
+}
+.block.type-3 .icon-entry .text {
+	font-size: 15px;
+	line-height: 22px;
+	color: #333;
+}
+.block.type-3 .icon-entry {
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+.span-title span
+{
+	color: #fd4326;
+}
+
+/*  ------------..//end other services------------ */
+
+/* -------------------rounding price img--------------------- */
+.circle{
+	background: #ffffff;
+	padding: 35px;
+	text-align: center;
+	height: 250px;
+	width: 250px;
+	border: 8px solid #F2F2F2;
+
+	transition: all 0.5s;
+	-moz-transition: all 0.5s; /* Firefox 4 */
+	-webkit-transition: all 0.5s; /* Safari and Chrome */
+	-o-transition: all 0.5s; /* Opera */
+
+}
+.circle h4{
+	margin: 0;
+	padding: 0;
+	font-weight: 700;
+
+}
+.circle p{}
+.circle span{}
+.circle span.icon{
+}
+.circle span.icon i{
+	font-size: 48px;
+}
+.circle span.price-large{
+	font-size: 68px
+}
+.price-small{
+	font-size: 24px
+}
+
+.c1:hover{
+	background: #157996;
+	color: #ffffff;
+}
+.c1 .blue{
+	color: #39b3d7;
+}
+.c1:hover .blue{
+	color: #ffffff;
+}
+
+.c2:hover{
+	background: #68553b;
+	color: #ffffff;
+}
+.c2 .yellow{
+	color: #ed9c28;
+}
+.c2:hover .yellow{
+	color: #ffffff;
+}
+
+.c3:hover{
+	background: #47a447;
+	color: #ffffff;
+}
+.c3 .green{
+	color: #47a447;
+}
+.c3:hover .green{
+	color: #ffffff;
+}
+
+.c4:hover{
+	background: #d2322d;
+	color: #ffffff;
+}
+.c4 .red{
+	color: #d2322d;
+}
+.c4:hover .red{
+	color: #ffffff;
+}
+.all-tab
+{
+	margin-left: 117px;
+}
+
+.color-2-font
+{
+	color: #e0a32e !important;
+	font-weight: 900;
+	vertical-align: top;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.desc-title
+{
+	margin-top: 16px;
+	font-size: 16px;
+	font-weight: 600;
+}
+.btn-price .btn-titenum
+{
+	padding: 8px 22px;
+	background: none;
+	box-shadow: inset 0 0 5px rgba(0,0,0, 0.4), rgba(255,255,255,0.1) 0 1px 0;
+	border-radius: 4px;
+	border: 1px solid rgba(0,0,0,0.25);
+	color: #25272b !important;
+}
+
+.btn-price
+{
+	margin-top: 15px;
+}
+
+.single-price-table:hover a
+{
+	background: #02b5ff;
+}
+.single-price-table:hover a
+{
+	color: #fff;
+}
+.single-price-table a
+{
+	border-color: #02b5ff;
+	border-style: solid;
+}
+
+.single-price-table i
+{
+	color: #02b5ff;
+}
+.single-price-table .icon {
+	font-size: 60px;
+	display: block;
+	margin-bottom: 32px;
+}
+.price-tab
+{
+	padding-bottom: 30px;
+}
+.list-price li p
+{
+	text-align: left;
+	margin-left: 20px;
+	line-height: 30px;
+}
+
+.list-price li i
+{
+	font-size: 15px;
+	margin-right: 5px;
+}
+.second-line-p p
+{
+	font-size: 25px;
+	color: #DAA520;
+	text-align: center;
+	margin-top: -16px;
+	margin-bottom: 35px;
+	font-weight: 600;
+}
+
+.tran4s > .price-inr i
+{
+	color: #02b5ff;
+	font-size: 42px;
+}
+
+.title-ft h4
+{
+	color: #fff;
+	font-weight: 500;
+	margin-bottom: 15px;
+
+}
+
+.tran3s .fa-check-circle::before {
+	content: "\f058";
+	margin-right: 2px;
+}
+.round-price-container
+{
+	margin-left: 135px;
+}
+
+.section-heading
+{
+	margin-top: -23px;
+	margin-bottom: 35px;
+}
+
+
+/* --------------------.//end rounding price img------------- */
+
+/* ------------------------..login and register ------------------------------ */
+.form-block {
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #f9f9f9;
+	-webkit-box-shadow: 1px 1px rgba(0,0,0,.05);
+	box-shadow: 1px 1px rgba(0,0,0,.05);
+	padding-top: 100px;
+	padding-bottom: 30px;
+	margin-top: 70px;
+	margin-bottom: 90px;
+	position: relative;
+}
+.form-block .form-icon {
+	position: absolute;
+	left: 50%;
+	top: 0;
+	margin: -70px 0 0 -70px;
+	border: 10px #fff solid;
+	width: 140px;
+	height: 140px;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.form-wrapper {
+	padding: 0 30px;
+}
+.block-header {
+	text-align: center;
+	margin-bottom: 60px;
+}
+.block-header .title {
+	font-size: 30px;
+	line-height: 40px;
+	color: #232c3b;
+	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 15px;
+}
+.block-header .text {
+	font-size: 18px;
+	line-height: 24px;
+	color: #181818;
+	font-family: 'Ubuntu', sans-serif;
+}
+.field-entry {
+	margin-bottom: 19px;
+}
+.field-entry label {
+	display: block;
+	font-size: 14px;
+	color: #232c3b;
+	line-height: 22px;
+	margin-bottom: 14px;
+	padding: 0 20px;
+}
+.field-entry input, .field-entry textarea {
+	width: 100%;
+	height: 50px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #fff;
+	-webkit-box-shadow: 1px 1px 2px rgba(0,0,0,.2);
+	box-shadow: 1px 1px 2px rgba(0,0,0,.2);
+	line-height: 50px;
+	padding: 0 20px;
+	border: none;
+	font-size: 14px;
+	color: #6a7483;
+}
+input, textarea, select {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	-webkit-appearance: none;
+	border-radius: 0;
+}
+
+/* ----------------------..//end login and register---------------------------- */
+.p-p1 p , .term-cond p , .r-p1 p
+{
+	text-align: justify;
+	font-size: 15px;
+}
+
+.p-p1 h5 , .term-cond h5 , .r-p1 h5
+{
+	text-align: left;
+	font-size: 20px;
+	color: #fd4326;
+	font-weight: 600;
+}
+.panel-primary > .panel-heading {
+	color: #fff;
+	background-color: #fd4326 !important;
+	border-color: #fd4326 !important;
+}
+
+/* --------------------price table----------------------------- */
+.price-entry {
+	padding-bottom: 60px;
+}
+.price-entry .icon {
+	width: 80px;
+	height: 80px;
+	position: relative;
+	margin: 0 auto -40px auto;
+	display: block;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.price-entry .entry {
+	-webkit-box-shadow: 1px 1px 2px rgba(0,0,0,.05);
+	box-shadow: 1px 1px 2px rgba(0,0,0,.05);
+	text-align: center;
+	border: 1px solid #e1e1e1;
+}
+.price-entry .top {
+	height: 210px;
+	background: #232c3b;
+	padding: 0 20px;
+}
+.price-entry .entry .cell-view {
+	width: 1000px;
+}
+.cell-view {
+	display: table-cell;
+	vertical-align: middle;
+	height: inherit;
+}
+
+.price-entry .top .title {
+	font-size: 30px;
+	line-height: 24px;
+	color: #fff;
+	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 25px;
+	font-weight: 600;
+}
+.price-entry .top .text {
+	font-size: 14px;
+	line-height: 22px;
+	color: #c6cad2;
+}
+
+.price-entry .middle div {
+	background: #fff;
+}
+.price-entry .middle div {
+	font-size: 14px;
+	line-height: 18px;
+	color: #6a7483;
+	text-align: center;
+	padding: 11px 5px;
+}
+
+.entry:hover
+{
+	box-shadow: 0 0 5px rgba(253, 67, 38, 1);
+}
+
+.price-entry .middle div:nth-child(2n) {
+	background: #f0f0f0;
+}
+.price-entry .middle div {
+	background: #fff;
+}
+.price-entry .middle div {
+	font-size: 14px;
+	line-height: 18px;
+	color: #6a7483;
+	text-align: center;
+	padding: 11px 5px;
+}
+.price-entry .bottom {
+	background: #f9f9f9;
+}
+.price-entry .bottom {
+	height: 140px;
+	padding: 0 20px;
+}
+.price-entry .entry .cell-view {
+	width: 1000px;
+}
+.cell-view {
+	display: table-cell;
+	vertical-align: middle;
+	height: inherit;
+}
+.cell-view .price
+{
+	font-size: 30px;
+	color: #fd4326;
+}
+
+.price-entry .bottom .price {
+	font-size: 20px;
+	line-height: 30px;
+	color: #ff6c3a;
+	font-family: 'Ubuntu', sans-serif;
+	margin-bottom: 22px;
+}
+.bottom a
+{
+	background: #25272b;
+	border-radius: 6px;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 16px;
+	padding: 15px 30px;
+}
+.bottom a:hover
+{
+	background: #fd4326;
+}
+
+/* ------------------..//price table------------------------ */
+.feedback-form h2
+{
+	font-size: 35px !important;
+}
+
+.modal-dialog {
+	width: 675px !important;
+	margin: 30px auto;
+}
